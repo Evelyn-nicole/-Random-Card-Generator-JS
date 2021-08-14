@@ -1,0 +1,58 @@
+body{
+    background:#0c500e;
+}
+.contenedor{
+    text-align:center;
+}
+h1 {
+    margin-top: 20px;
+    font-size:50px;
+    color:white;
+    font-family:cursive;
+}
+h2 {
+    color:white;
+    font: size 20px;
+    font-family:cursive;
+}
+.myButton{
+    width:150px;
+    height:40px;
+    font-size:16px;
+    font-family: cursive;
+    border-radius: 10px;
+    border:1px solid whitesmoke;
+    background:black;
+    color:white;
+}
+.myButton:hover{
+    background:rgb(134, 21, 21);
+}
+.contenedor2{
+    margin-top: 40px;
+    margin-left:600px;
+}
+.card{
+    width:300px;
+    height: 400px;
+    border-radius:20px ;
+    border:1px solid black;
+    background:whitesmoke;
+    padding: 0 10px; 
+}
+.top-suit{ 
+    font-size: 100px;
+    margin-top: -10px;
+    text-align:left;
+}
+.number{
+    font-size: 85px;
+    text-align: center;
+    margin-top: -50px;
+}
+.bottom-suit{
+    font-size: 100px;
+    text-align: end;
+    margin-top: -50px;
+}
+   
